@@ -1,2 +1,2 @@
 # EffLoc
-This is the PyTorch implementation of EffLoc, a simple and efficient Transformer for robust Camera Relocalization.
+This is the PyTorch implementation of EffLoc, a simple and efficient Transformer for robust camera relocalization.
